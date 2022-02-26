@@ -1,6 +1,10 @@
 const seventhPhoneImg= "https://static.digit.in/default/9b801f10ae31faae1bc2777e55f45550922706aa.jpeg?tr=w-1200";
 const seventhPhoneTitle = "Apple iphone 11 pro max";
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 const eighthPhoneImg= "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHLN3?wid=2000&hei=2000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1601352338000";
 const eigthPhoneTitle = "Apple iphone 12 pro max";
 
