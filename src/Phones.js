@@ -3,7 +3,11 @@ import { eventHandling } from './events';
 import { eventHandlingApple } from './events';
 const firstPhoneImg = "https://i5.walmartimages.com/asr/b756e057-e68f-49b4-b834-7067da5c8d95.2beafc3373d2c8650fb748a8768e613c.jpeg";
 const firstPhoneTitle = "Asus Rog 3 Smart Phone";
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 const secondPhoneImg = "https://www.notebookcheck.net/typo3temp/_processed_/5/0/csm_P_setting_fff_1_90_end_600_dbfb878519.jpg";
 const secondPhoneTitle = "Asus Rog 2 Smart Phone";
 
