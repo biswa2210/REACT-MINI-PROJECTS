@@ -1,6 +1,6 @@
 # SMART PHONES CATALOGUE :star_struck: 📱
 
-[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/javascript-advance-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react-framewrok-blue)](https://shields.io/)
 
 ***This new WebSite named 'SMART PHONES CATALOGUE' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -16,25 +16,16 @@
 
 ## About :point_down: 
 
+This is a smart phones catalogue created which contains 9 smart phones with description. There are buttons below descrption named 'BUY NOW'. When user clicks on the button a notification comes 'Aukaat ke bahar'. Basically this website is for practicing react concepts. It is a responsive catalue made using react framework in javascrpt.
 
-
-## LINK of full project: :point_right: . 
+## LINK of full project: :point_right: https://simple-smartphones-catalog.netlify.app/. 
 
 ## Purpose :point_down:
 
 <div align="justified">
      
-
-</div>
-
-## Use :point_down:
-
-
-## Importance :point_down:
-
-<div align="justified">
+I have made this website to practice react concepts.
      
-
 </div>
 
 ## Folder Structure :point_down:
@@ -47,11 +38,13 @@
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="ori1.PNG"><img src="ori1.PNG" width="400" height= "300"></a> <a href="ori2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
-
-<a href="ori3.PNG"><img src="ori3.PNG" width="400" height= "300"></a> <a href="ori4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
-
-<a href="ori5.PNG"><img src="ori5.PNG" width="800" height= "300"></a>
+     
+<a href="sp1.PNG"><img src="sp1.PNG" width="800" height= "400"></a> 
+  
+<a href="sp2.PNG"><img src="sp2.PNG" width="800" height= "400"></a> 
+     
+<a href="sp3.PNG"><img src="sp3.PNG" width="800" height= "400"></a> 
+  
 </div>
 
 
