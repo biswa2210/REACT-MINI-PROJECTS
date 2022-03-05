@@ -33,22 +33,7 @@ I have made this website to practice react concepts.
              
 ## Making :point_down:
 
-
-
-## Screenshots :point_down: 
-
-<div align="center">
-     
-<a href="sp1.PNG"><img src="sp1.PNG" width="800" height= "400"></a> 
-  
-<a href="sp2.PNG"><img src="sp2.PNG" width="800" height= "400"></a> 
-     
-<a href="sp3.PNG"><img src="sp3.PNG" width="800" height= "400"></a> 
-  
-</div>
-
-
-
+I have made this website using react framework in javascrpt.
 
 # Getting Started with Create React App
 https://simple-smartphones-catalog.netlify.app/
@@ -120,4 +105,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-
+
+## Screenshots :point_down: 
+
+<div align="center">
+     
+<a href="sp1.PNG"><img src="sp1.PNG" width="800" height= "400"></a> 
+  
+<a href="sp2.PNG"><img src="sp2.PNG" width="800" height= "400"></a> 
+     
+<a href="sp3.PNG"><img src="sp3.PNG" width="800" height= "400"></a> 
+  
+</div>
+
+
+
+
+app/docs/troubleshooting#npm-run-build-fails-to-minify)
