@@ -74,15 +74,15 @@ I have made this uing react concepts.
 
 <div align="center">
  
-<a href="ad1.PNG"><img src="ad1.PNG" width="800" height= "400"></a> 
+<a href="ad1.png"><img src="ad1.png" width="800" height= "400"></a> 
   
-<a href="ad2.PNG"><img src="ad2.PNG" width="800" height= "400"></a> 
+<a href="ad2.png"><img src="ad2.png" width="800" height= "400"></a> 
   
-<a href="ad3.PNG"><img src="ad3.PNG" width="800" height= "400"></a> 
+<a href="ad3.png"><img src="ad3.png" width="800" height= "400"></a> 
    
-<a href="ad4.PNG"><img src="ad4.PNG" width="800" height= "400"></a> 
+<a href="ad4.png"><img src="ad4.png" width="800" height= "400"></a> 
    
-<a href="ad5.PNG"><img src="ad5.PNG" width="800" height= "400"></a> 
+<a href="ad5.png"><img src="ad5.png" width="800" height= "400"></a> 
 
 </div>
 
