@@ -29,7 +29,7 @@ I have made this website to practice react concepts.
 </div>
 
 ## Folder Structure :point_down:
-bash```
+```bash
 Smart-Phones-Catalogue
      ├── Phones.js
      ├── applePhones.js
