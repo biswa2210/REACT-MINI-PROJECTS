@@ -1,6 +1,6 @@
 ## REACT-ADVANCE-PRACTICES :star_struck: 
 
-[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/javascript-advance-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/react-framewrok-blue)](https://shields.io/)
 
 ***This new WebSite named 'REACT-ADVANCE-PRACTICES' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -21,6 +21,7 @@ This is a website named 'REACT-ADVANCE-PRACTICE' which is created using react co
 ## LINK of full project: :point_right: https://react-advance-practices.netlify.app/. 
 
 ## Folder Structure :point_down:
+
 ```bash
 react-advance-practices
    ├── public
