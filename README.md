@@ -39,7 +39,14 @@
 </div>
 
 ## Folder Structure :point_down:
-
+```bash
+Smart-Phones-Catalogue
+     ├── Phones.js
+     ├── applePhones.js
+     ├── events.js
+     ├── index.css
+     └── index.js
+```   
       
 ## Making :point_down:
 
