@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
 
-***This new WebSite named 'ORISHA-FESTIVALS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new WebSite named 'REACT-ADVANCE-PRACTICES' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -16,49 +16,25 @@
 
 ## About :point_down: 
 
-
+This is a website named 'REACT-ADVANCE-PRACTICE' which is created using react concepts. At first there is a change title option which changes the name between Devil Biswa and Biswarup Bhattacharjee. Then there is a list of names. Using Clear Items the list can be cleared. Then there is a change message option which changes the message between Hello guys and Hello Programmers. Then there is a counter with increase, reset and decrease options. There is also complex counter. Then there is use effect hook. The window height and width are shown here. Then there is a list of github users. Then there is toggle error option which changes error status. Then there are options to add person by adding name and email id. Then there is prop drilling.  Then there are some data or products. Basically this is a practice of react concepts.
 
 ## LINK of full project: :point_right: https://react-advance-practices.netlify.app/. 
 
-## Purpose :point_down:
-
-<div align="justified">
-     
-
-</div>
-
-## Use :point_down:
-
-
-
-## Importance :point_down:
-
-<div align="justified">
-
-
-</div>
-
 ## Folder Structure :point_down:
 ```bash
-Smart-Phones-Catalogue
-     ├── Phones.js
-     ├── applePhones.js
-     ├── events.js
-     ├── index.css
-     └── index.js
+react-advance-practices
+   ├── public
+   |      └── index.html
+   └── src
+        ├── App.js
+        ├── data.js
+        ├── index.css
+        └── index.js
 ```   
       
 ## Making :point_down:
 
-
-## Screenshots :point_down: 
-
-<div align="center">
-
-</div>
-
-
-
+I have made this uing react concepts.
 
 #### useState
 
@@ -92,4 +68,13 @@ Smart-Phones-Catalogue
 
 14. Cart
 
-#### React Router
+
+## Screenshots :point_down: 
+
+<div align="center">
+
+</div>
+
+
+
+
