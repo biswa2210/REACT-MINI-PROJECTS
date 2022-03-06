@@ -125,7 +125,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   
 </div>
 
-
-
-
-app/docs/troubleshooting#npm-run-build-fails-to-minify)
